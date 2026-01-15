@@ -1,6 +1,6 @@
-# Antigravity Skills
+# Agent Skills
 
-This repository contains a collection of skills designed for agents. These skills extend the capabilities of the agent, allowing for specialized tasks such as document generation, design, and internal communications.
+This repository contains a collection of skills designed for agents using [Agent Skills](https://agentskills.io/home). These skills extend the capabilities of the agent, allowing for specialized tasks such as document generation, design, and internal communications.
 
 ## References
 
